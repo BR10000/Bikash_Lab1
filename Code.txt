@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 int x=448;
+=======
+int x=448;
+>>>>>>> newBranch
 
